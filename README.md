@@ -4,6 +4,8 @@
 
 ## Usage
 
+Add the plugin file to $ZSH\_CUSTOM/plugins
+
 Add `keep` to your plugins array in your zshrc file:
 ```zsh
 plugins=(... keep)
