@@ -4,7 +4,8 @@
 
 ## Usage
 
-Clone this repository to a local folder, like Downloads!
+Clone this repository to a local folder, like Downloads
+
 Then execute this command in that folder: `mv free.keep.sh $ZSH_CUSTOM/plugins/keep`
 
 Add `keep` to your plugins array in your zshrc file:
