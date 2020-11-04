@@ -1,4 +1,4 @@
-#`free.keep.sh` plugin for oh-my-zsh
+# `free.keep.sh` plugin for oh-my-zsh
 
 [`free.keep.sh`](https://free.keep.sh) is an easy to use file sharing service from the command line, similar to transfer.sh
 
